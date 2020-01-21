@@ -23,5 +23,17 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  
+  puts Math.sqrt(num)
 end
+
+addition
+
+subtraction
+
+multiplication
+
+division
+
+modulo
+
+square_root
