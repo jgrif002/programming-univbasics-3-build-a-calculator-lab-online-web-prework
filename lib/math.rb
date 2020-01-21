@@ -1,9 +1,13 @@
-def addition(num1, num2)
+num1 = 4
+num2 = 10
+num = 25
 
+def addition(num1, num2)
+ sum(num1,num2)
 end
 
 def subtraction(num1, num2)
-
+  dif(num1,num2)
 end
 
 def division(num1, num2)
@@ -19,5 +23,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-
+  square_root(num)
 end
